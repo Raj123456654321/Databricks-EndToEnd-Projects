@@ -1,2 +1,1 @@
-# Databricks-EndToEnd-Projects
-Databricks Projects
+# Databricks-EndToEnd-Project
